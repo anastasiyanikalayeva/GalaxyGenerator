@@ -1,23 +1,17 @@
-# Galaxy Generator [:link:](https://anastasiyanikalayeva.github.io/GalaxyGenerator/)
-This is spiral galaxy. [Wiki](https://en.wikipedia.org/wiki/Spiral_galaxy)
-> Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters.
+# Galaxy Generator 
+Galaxy Generator is a web-based tool that allows users to create their own spiral galaxies with the help of intuitive controls. Using the Galaxy Generator, you can adjust a variety of particle-related variables, such as star count, size, radius, branches, spin, randomness, randomness power, inside color, and outside color, to create unique and visually stunning galaxies.
+The Galaxy Generator was built using the following technologies:
++ [THREE.js](https://threejs.org/): A lightweight and cross-browser JavaScript library used to create and display 3D computer graphics on the web.
++ JavaScript: A high-level, dynamic, and interpreted programming language used to create the interactive functionality of the Galaxy Generator.
++ HTML: A markup language used to create the structure and content of the Galaxy Generator.
++ CSS: A style sheet language used to define the layout and appearance of the Galaxy Generator.
 
+## Features
+With the Galaxy Generator, you can:
++ Create unique spiral galaxies using a range of customizable particle-related variables.
++ Adjust the count, size, radius, branches, spin, randomness, and randomness power of the stars in your galaxy.
++ Customize the inside and outside color of your galaxy.
++ Enjoy a visually stunning and interactive experience.
 
-## Technologies
-+ THREE.js
-+ JavaScript
-+ HTML
-+ CSS
-
-## Interaction
-Any user can create their own galaxy with the help of controls that are located in top right corner. All the adjustments are related to particles. Variables that can be changed are:
-* count
-* size
-* radius
-* branches
-* spin
-* randomness
-* randomnessPower
-* insideColor
-* outsideColor
-
+## Usage
+To use the Galaxy Generator, simply open the [link](https://anastasiyanikalayeva.github.io/GalaxyGenerator/) in your web browser and adjust the controls located in the top right corner of the screen. The Galaxy Generator is optimized for use in modern web browsers, including Google Chrome, Mozilla Firefox, and Microsoft Edge.
